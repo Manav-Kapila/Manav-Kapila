@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Manav-Kapila
-- 👀 I’m interested in Web Development and web Designing
-- 🌱 I’m currently implementing my skills to make new projects. 
-- 💞️ I’m looking to collaborate on Web Development and web Designing
+- 👀 I’m interested in Web and Software Development
+- 🌱 I love to implement my skills on various projects. 
 - 📫 How to reach me manav14kapila12@gmail.com
 
 <!---
